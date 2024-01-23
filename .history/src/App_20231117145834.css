@@ -1,0 +1,51 @@
+.darkblue {
+    background: #161837;
+   
+  }
+  .darkgrey{
+      color: #868c96;
+    
+  }
+  .bgcolor{
+    background-color:#E1E5EA;
+  }
+  .lightblue{
+    color:#47B2E4;
+  }
+  .lightWhite{
+    color: #FBFEFD !important;
+}
+.titleBlue{
+  color:#20247B;
+  font-family: 'Scheherazade', serif;
+}
+  .btn2 {
+    background-color: #5684B9;
+    color: #ffffff;
+    border: 1px solid #1691A4;
+    border-radius: 20px;
+    padding: 8px 20px;
+    margin-top: 5%;
+    cursor: pointer;
+  }
+  
+  .btn2:hover {
+    background-color: #476e99;
+    color: #ffffff;
+  }
+
+  .row{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: 0% !important;
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+@import url(https://fonts.googleapis.com/earlyaccess/amiri.css);
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+@import url(https://fonts.googleapis.com/earlyaccess/lateef.css); 
+@import url(https://fonts.googleapis.com/earlyaccess/scheherazade.css);
+@import url(https://fonts.googleapis.com/earlyaccess/thabit.css);

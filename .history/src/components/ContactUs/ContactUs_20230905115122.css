@@ -1,0 +1,15 @@
+#title{
+  
+    color: #1691A4;
+   
+}
+.contain{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 10%;
+    padding-bottom: 155g%;
+}

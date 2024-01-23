@@ -1,0 +1,33 @@
+/* .item3{
+   border:solid lightBlue 10px;
+   height: 50%;
+   border-radius:5%;
+} */
+
+.client-logo{
+   justify-self: center !important;
+}
+.slide{
+   text-align: -webkit-center;
+   font-size: 40px;
+}
+.options{
+  
+      display: flex;
+      align-items: center;
+    
+    
+}
+.owl-centered {
+   .owl-wrapper {
+     display: table !important;
+   }
+   .owl-item {
+     display: table-cell;
+     float: none;
+     vertical-align: middle;
+     div {
+       text-align: center;
+     }
+   }
+ }

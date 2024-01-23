@@ -1,0 +1,35 @@
+.line{
+    height: 100px; background-color: black;
+}
+
+
+.partners{
+    border-radius:20px;
+}
+
+#title{
+    color: #ffffff;
+}
+
+.img-items{
+    justify-self: center !important;
+}
+
+    
+
+  
+  .underline-small::after{
+    content:'';
+    height:2px;
+    width:20%;
+    background:#47B2E4;
+    position:absolute;
+    left:calc(50% - 10%);
+    bottom:-5px;
+  /*   another way you can achieve this
+    Check this link: 
+    https://goo.gl/GgRdjz
+    
+    */
+    
+  }   

@@ -1,0 +1,14 @@
+/* .item3{
+   border:solid lightBlue 10px;
+   height: 50%;
+   border-radius:5%;
+} */
+
+.client-logo{
+   justify-self: center !important;
+}
+.slide{
+   text-align: -webkit-center;
+   font-size: 40px;
+}
+.options

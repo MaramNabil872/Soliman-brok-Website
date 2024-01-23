@@ -1,0 +1,116 @@
+.darkblue {
+    background: #161837;
+}
+.darkgrey {
+    color: #868c96;
+}
+.bgcolor {
+    background-color: #e1e5ea;
+}
+.lightblue {
+    color: #47b2e4;
+}
+.lightWhite {
+    color: #fbfefd !important;
+}
+.titleBlue {
+    color: #20247b;
+    font-family: arabicFont !important;
+}
+.btn2 {
+    background-color: #5684b9;
+    color: #ffffff;
+    border: 1px solid #1691a4;
+    border-radius: 20px;
+    padding: 8px 20px;
+    margin-top: 5%;
+    cursor: pointer;
+}
+
+.btn2:hover {
+    background-color: #476e99;
+    color: #ffffff;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: 0% !important;
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+
+
+@font-face {
+    font-family: "arabicFont";
+    src: local("arabicFont"),
+        url(./assets/fonts/Changa-Regular.ttf) format("truetype");
+    /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@import url(https://db.onlinewebfonts.com/c/739571e5b3270dd49b19f413b1ef148e?family=F29LT+Bukra+Regular);
+@font-face {
+  font-family: "F29LT Bukra Regular";
+  src: url("https://db.onlinewebfonts.com/t/739571e5b3270dd49b19f413b1ef148e.eot");
+  src: url("https://db.onlinewebfonts.com/t/739571e5b3270dd49b19f413b1ef148e.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/739571e5b3270dd49b19f413b1ef148e.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/739571e5b3270dd49b19f413b1ef148e.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/739571e5b3270dd49b19f413b1ef148e.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/739571e5b3270dd49b19f413b1ef148e.svg#F29LT Bukra Regular")format("svg");
+}
+.big-title {
+    font-size: xxx-large;
+    font-weight: bold;
+    font-family: arabicFont;
+    color: #37517E;
+    
+}
+.medium-title{
+  font-weight: bold;
+  font-family: arabicFont;
+  color: #37517E;
+  font-size: 25px;
+}
+.small-title{
+  font-weight: bold;
+  font-family: arabicFont;
+  color: #37517E;
+  font-size: 30px;
+}
+.nav-item{
+  font-family: arabicFont;
+}
+.text{
+  font-family: arabicFont;
+
+}
+
+.lightWhite{
+  font-family: arabicFont;
+}
+p{
+  font-family: arabicFont;
+}
+span{
+  font-family: arabicFont;
+}
+h4{
+  font-family: arabicFont;
+  font-weight: 400;
+ 
+}
+.post-text{
+  font-family: arabicFont;
+}
+
+.post-title{
+  font-family: arabicFont;
+}
+.small-text{
+  
+  font-family: arabicFont;
+  color: #37517E;
+  font-size: 15px;
+}

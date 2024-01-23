@@ -1,0 +1,42 @@
+section,
+footer {
+  background: #161837;
+  color: #868c96;
+  padding-bottom: 3%;
+}
+
+footer p {
+  padding: 40px 0;
+  text-align: center;
+}
+
+/* footer img {
+  width: 44px;
+} */
+#img{
+  
+    width: 30%;
+}
+
+ul {
+  list-style: none;
+}
+.policy{
+  text-align: -webkit-right;
+  /* padding-left: 20% !important; */
+  margin-top: 5% !important;
+}
+
+.bank{
+  align-items:center;
+
+
+}
+.contaner{
+  /* background-color:aliceblue; */
+  border-radius:5%;
+  width:60% !important;
+}
+.size{
+ font-size: ; 
+}

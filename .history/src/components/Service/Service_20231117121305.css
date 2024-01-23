@@ -1,0 +1,31 @@
+
+.service-title{
+    color: #211F3F;
+}
+.title{
+    color: #00d4f5;
+}
+.darkblue {
+    background: #161837;
+   
+  }
+  .darkgrey{
+      color: #868c96;
+    
+  }
+  
+  .greyy{
+      color:#ffffff;
+  }
+  .lightblue{
+    color: #00d4f5;
+  }
+  #bg-img{
+    background: rgb(221, 221, 221);
+/* background: linear-gradient(90deg, rgba(17,132,173,1) 0%, rgba(30,154,156,1) 42%, rgba(27,176,134,1) 100%); */
+border-radius:20%
+  }
+#title{
+  font-weight: bold;
+  font-family:'Amiri'
+}

@@ -1,0 +1,41 @@
+
+@media only screen and (max-width: 600px) {
+    #img{
+        height: 30vh;
+      
+    }
+  }
+  #img{
+    height: 400px;
+    width: 100%;
+    
+  }
+
+  #caption{
+    text-align: left;
+    font-size: 30px;
+  }
+#bg-carasol{
+  background-image:url("/people1.jpg");
+  height:100%;
+  font-size:50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.card2{
+  align-items: center;
+  border-radius: 30px;
+}
+.carousel-text{
+  float: left;
+  left: auto;
+
+
+}
+.carousel-control-prev{
+  position: static;
+}
+.carousel-caption{
+  left: 55px;
+}

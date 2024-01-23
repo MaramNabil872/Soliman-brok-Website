@@ -1,0 +1,92 @@
+.darkblue {
+    background: #161837;
+   
+  }
+  .darkgrey{
+      color: #868c96;
+    
+  }
+  .newcolor{
+    color:#37517E;
+  }
+  .bgcolor{
+    background-color:#F3F5FA;
+  }
+  .greyy{
+      color:#ffffff;
+  }
+  .lightblue{
+    color: rgb(27 167 189);
+  }
+  .titleBlue{
+    color:#37517E;
+  }
+
+#title2:hover{
+    color:rgb(27 167 189);
+    background-color: #dfdfdf;
+    
+
+}
+#title2{
+    padding: 4%;
+    
+
+}
+#contain{
+    padding-top: 5%;
+    background-color:#F3F5FA;
+}
+#text{
+    font-weight: 600;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 45%;
+    padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+ 
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Style the counter cards */
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #1885B0;
+  
+  }
+  .card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #10B591;
+    border-radius:8%;
+    height: 40px;
+  
+  }
+  .icons{
+    align-self: center;
+  }
+  .Fonts{
+    font-family: Rockwell;
+  }

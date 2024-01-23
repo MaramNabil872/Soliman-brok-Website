@@ -1,0 +1,23 @@
+section,
+footer {
+  background: #161837;
+  color: #868c96;
+  padding-bottom: ;
+}
+
+footer p {
+  padding: 40px 0;
+  text-align: center;
+}
+
+/* footer img {
+  width: 44px;
+} */
+#img{
+    height: 20%;
+    width: 20%;
+}
+
+ul {
+  list-style: none;
+}

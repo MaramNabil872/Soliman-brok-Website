@@ -1,0 +1,132 @@
+.body{
+background-color:#eeeeee;
+}
+.title{
+    text-align: center;
+    color: #636873;
+    font-family:system-ui;
+    padding-bottom: 2%;
+    padding-top: 2%;
+ 
+}
+.text{
+    color: #207394;
+    font-weight: 600;
+    font-size: 50px;
+}
+.title2{
+    color: #636873;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 14px;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+#cards{
+margin-top: 5%;
+
+}
+.cardtitle{
+    font-size: 50px;
+    color: #65a4bd;
+}
+.cardText{
+    margin-top: 10%;
+}
+
+.darkblue {
+    background: #161837;
+   
+  }
+  .darkgrey{
+      color: #868c96;
+    
+  }
+  .partners{
+      border-radius:20px;
+  }
+  .greyy{
+      color:#eeeeee;
+      
+  }
+  .lightBlue{
+    color: rgb(27 167 189)
+  }
+  .bg{
+   background-image:
+   height:100%; 
+    font-size:50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+ 
+  }
+  .bg-title{
+ 
+    height: 100%;
+    text-align: center;
+    padding-top: 12%;
+    padding-bottom: 14%;
+   
+    
+  }
+  #overlay{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+  }
+  head,
+   body{
+    background-color: lightcyan
+  }
+  .card{
+    cursor: pointer
+  }
+  
+  .why{
+    font-size: 40px;
+    font-weight: 550;
+    font-family: "Jost", sans-serif;
+    color:#37517E;
+  }
+  
+  .card.hover, .card:hover{
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .2)
+  }
+  
+  .img{
+    margin-bottom: 35px;
+    -webkit-filter: drop-shadow(5px 5px 5px #b3b1b1);
+    filter: drop-shadow(5px 5px 5px #c4c3c3)
+  }
+  
+  .cardtitle{
+    font-weight: 600;
+    font-size: 30px;
+    font-family: "Jost", sans-serif;
+    color:#37517E;
+  }
+  
+  button.focus, button:focus{outline: 0;box-shadow: none !important
+    }
+    
+    .ft{
+      margin-top: 25px
+    }
+      
+      .chk{
+        margin-bottom: 5px
+      }
+
+  .rck{
+    margin-top: 20px;
+    padding-bottom: 15px}
+    
+  
+    .cardtitle{
+  font-family: arabicFont !important;
+}

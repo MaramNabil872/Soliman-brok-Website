@@ -1,0 +1,27 @@
+
+
+.partners{
+    border-radius:20px;
+}
+
+#title{
+    color: #ffffff;
+}
+
+.img-items{
+    justify-self: center !important;
+    align-items: center !important;
+    /* background-color: white; */
+    
+
+}
+.all-items{
+  align-items: center;
+  /* background-color: white; */
+  
+}
+
+    
+
+  
+

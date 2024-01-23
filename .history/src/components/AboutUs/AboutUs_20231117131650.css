@@ -1,0 +1,32 @@
+#bg{
+    background-color:#161837;
+}
+.btn2 {
+    background-color: #5684B9;
+    color: #ffffff;
+    border: 1px solid #1691A4;
+    border-radius: 40px;
+    padding: 8px 20px;
+    margin-top: 5%;
+    cursor: pointer;
+  }
+  
+  .btn2:hover {
+    background-color: #476e99;
+    color: #ffffff;
+  }
+  #title{
+    font-weight: bold;
+    color:#37517E;
+    font-family: 'Lateef', serif
+  }
+  @font-face {
+    font-family: 'Scheherazade';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//fonts.gstatic.com/ea/scheherazade/v10/Scheherazade-R.eot);
+    src: url(//fonts.gstatic.com/ea/scheherazade/v10/Scheherazade-R.eot?#iefix) format('embedded-opentype'),
+         url(//fonts.gstatic.com/ea/scheherazade/v10/Scheherazade-R.woff2) format('woff2'),
+         url(//fonts.gstatic.com/ea/scheherazade/v10/Scheherazade-R.woff) format('woff'),
+         url(//fonts.gstatic.com/ea/scheherazade/v10/Scheherazade-R.ttf) format('truetype');
+  }

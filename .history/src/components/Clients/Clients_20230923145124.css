@@ -1,0 +1,36 @@
+/* .item3{
+   border:solid lightBlue 10px;
+   height: 50%;
+   border-radius:5%;
+} */
+
+.client-title{
+  color: #20247B;
+  font-weight: bold;
+  text-align-last: center;
+  padding-bottom: 3%;
+}
+.slide{
+   text-align-last: center;
+   font-size: 20px;
+}
+.options{
+  
+      display: flex;
+      align-items: center;
+    
+    
+}
+.owl-centered {
+   .owl-wrapper {
+     display: table !important;
+   }
+   .owl-item {
+     display: table-cell !important;
+     float: none;
+     vertical-align: middle;
+     div {
+       text-align: center;
+     }
+   }
+ }
