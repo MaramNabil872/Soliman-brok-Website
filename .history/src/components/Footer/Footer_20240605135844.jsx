@@ -78,8 +78,8 @@ const Footer = () => {
                                 </span>
                             </li>
                         </div>
-{/* 
-                        <div className="col-lg-4 col-md-6 mb-4 mb-md-0 text-center ">
+
+                        {/* <div className="col-lg-4 col-md-6 mb-4 mb-md-0 text-center ">
                             <h5 className=" mb-4">
                                 {" "}
                                 {isEnglish
@@ -164,9 +164,9 @@ const Footer = () => {
                                         {" "}
                                         <img src={forsa} className="w-100" />
                                     </div>
-                                </div> */}
-                            {/* </div> */}
-                        {/* </div> */}
+                                </div>
+                            </div>
+                        </div> */}
                     </div>
                 </div>
 

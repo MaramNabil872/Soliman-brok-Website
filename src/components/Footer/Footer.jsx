@@ -1,22 +1,22 @@
 import React from "react";
-import Logo from "./../../assets/images/logo-1.png";
+// import Logo from "./../../assets/images/logo-1.png";
 
-import bdc from "./../../assets/Bank-logo/bdc.png";
-import adib from "./../../assets/Bank-logo/adib.png";
-import misr from "./../../assets/Bank-logo/misr.png";
-import mashreq from "./../../assets/Bank-logo/mashreq.webp";
-import ahly from "./../../assets/Bank-logo/ahly.png";
-import hsbc from "./../../assets/Bank-logo/hsbc.png";
-import nbk from "./../../assets/Bank-logo/nbk.png";
-import nbd from "./../../assets/Bank-logo/nbd.png";
-import cib from "./../../assets/Bank-logo/cib.png";
+// import bdc from "./../../assets/Bank-logo/bdc.png";
 // import adib from "./../../assets/Bank-logo/adib.png";
-import fab from "./../../assets/Bank-logo/fab.png";
-import aub from "./../../assets/Bank-logo/aub.png";
-import sohola from "./../../assets/Bank-logo/sohola.jfif";
-import aman from "./../../assets/Bank-logo/aman1.png";
-import forsa from "./../../assets/Bank-logo/forsa.png";
-import valu from "./../../assets/images/valu.png";
+// import misr from "./../../assets/Bank-logo/misr.png";
+// import mashreq from "./../../assets/Bank-logo/mashreq.webp";
+// import ahly from "./../../assets/Bank-logo/ahly.png";
+// import hsbc from "./../../assets/Bank-logo/hsbc.png";
+// import nbk from "./../../assets/Bank-logo/nbk.png";
+// import nbd from "./../../assets/Bank-logo/nbd.png";
+// import cib from "./../../assets/Bank-logo/cib.png";
+// // import adib from "./../../assets/Bank-logo/adib.png";
+// import fab from "./../../assets/Bank-logo/fab.png";
+// import aub from "./../../assets/Bank-logo/aub.png";
+// import sohola from "./../../assets/Bank-logo/sohola.jfif";
+// import aman from "./../../assets/Bank-logo/aman1.png";
+// import forsa from "./../../assets/Bank-logo/forsa.png";
+// import valu from "./../../assets/images/valu.png";
 import "./Footer.css";
 import { useLanguageContext } from "../../Contexts/LanguageContext";
 const Footer = () => {
@@ -79,7 +79,7 @@ const Footer = () => {
                             </li>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 mb-4 mb-md-0 text-center ">
+                        {/* <div className="col-lg-4 col-md-6 mb-4 mb-md-0 text-center ">
                             <h5 className=" mb-4">
                                 {" "}
                                 {isEnglish
@@ -166,7 +166,7 @@ const Footer = () => {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
