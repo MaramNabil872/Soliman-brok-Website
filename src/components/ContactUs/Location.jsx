@@ -2,7 +2,7 @@ import React from 'react'
 import { GrMapLocation } from "react-icons/gr";
 import { GrMailOption } from "react-icons/gr";
 import { FcPhone } from "react-icons/fc";
-import  location  from  "./../../assets/images/location1.PNG";
+// import  location  from  "./../../assets/images/location1.PNG";
 import "./ContactUs.css";
 import { useLanguageContext } from '../../Contexts/LanguageContext';
 const Location = () => {

@@ -2,7 +2,7 @@ import React from 'react'
 import { GrMapLocation } from "react-icons/gr";
 import { GrMailOption } from "react-icons/gr";
 import { FcPhone } from "react-icons/fc";
-import  location  from  "./../../assets/images/location1.PNG";
+// import  location  from  "./../../assets/images/location1.PNG";
 import "./ContactUs.css";
 import { useLanguageContext } from '../../Contexts/LanguageContext';
 const Location = () => {
@@ -28,7 +28,7 @@ const Location = () => {
       </p>
       <p style={{ fontSize: "13px" , color:"#161837"}} className="darkBlue-50">
         <GrMailOption id="location" />
-        <span> </span>تنويه Www.SolimanBrok.com هام لعملائنا بأن الرسلئل البريدية المعتمده هي فقط الصادره من  
+        <span> </span> Www.SolimanBrok.com تنويه هام لعملائنا بأن الرسلئل البريدية المعتمده هي فقط الصادره من  
       </p>
  
     </div>
